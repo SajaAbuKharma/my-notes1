@@ -1,8 +1,10 @@
 # MY notes
 ## introduction
--My Name is Saja Abu Kharma
--GRADUTES OF TELECOMMUNICATION ENGINEERING AT BAU, CLASS OF 2021
--QA - TRANIEE @ LTUC -ASAC
+### My Name is Saja Abu Kharma
+### Trainee @ LTUC ■ ASAC ...
+###  I graduated from Bau with a major in Tele-communication Engineering.
+
+
 
 -----------------------------------------------
 -----------------------------------------------
